@@ -1,0 +1,6 @@
+A API e o driver estão dentro de uma pasta chamada lib, provavelmente você vai ter que dar build path:
+
+É só clicar com o botão direito no projeto e ir em Build Path > Configure build path, clicar sobre um dos .jar e ir em edit, procurar por ele na pasta lib e dar OK
+Se deu tudo certo, o ponto de exclamação em vermelho vai desaparecer.
+
+Lembre-se de mudar a senha do root de acordo com o seu computador na classe de conexão.
