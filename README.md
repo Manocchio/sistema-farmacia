@@ -5,12 +5,12 @@ Projeto desenvolvido com o intuito de aprender novas bibliotecas em java, bem co
 
 ### Cadastro
 
-![](prints/print-cadastrar)
+![](prints/print-cadastrar.png)
 
 ### Edição
 
-![](prints/editar-exemplo)
+![](prints/editar-exemplo.png)
 
 ### Consulta
 
-![](prints/print-consulta)
+![](prints/print-consulta.png)
